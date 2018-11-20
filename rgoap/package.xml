@@ -1,12 +1,20 @@
-<package>
-  <description brief="rgoap">
+<?xml version="1.0"?>
+<package format="2">
+  <name>rgoap</name>
+  <version>0.1.0</version>
+  <description>
 
      Robotic GOAP implementation to be used with ROS, written in Python.
 
   </description>
+
+  <maintainer email="juliusz@student.pwr.edu.pl">Juliusz T</maintainer>
+
   <author>Felix Kolbe</author>
   <license>BSD</license>
   <review status="unreviewed" notes=""/>
   <url>http://ros.org/wiki/rgoap</url>
+
+  <buildtool_depend>catkin</buildtool_depend>
 
 </package>

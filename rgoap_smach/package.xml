@@ -1,0 +1,26 @@
+<?xml version="1.0"?>
+<package format="2">
+  <name>rgoap_smach</name>
+  <version>0.0.0</version>
+  <description>
+
+     SMACH adapters for RGOAP, the robotic GOAP implementation.
+
+  </description>
+
+  <maintainer email="juliusz@student.pwr.edu.pl">Juliusz T</maintainer>
+
+  <author>Felix Kolbe</author>
+  <license>BSD</license>
+  <review status="unreviewed" notes=""/>
+  <url>http://ros.org/wiki/rgoap_smach</url>
+
+  <buildtool_depend>catkin</buildtool_depend>
+  <build_depend>rgoap</build_depend>
+  <build_depend>smach</build_depend>
+  <build_export_depend>rgoap</build_export_depend>
+  <build_export_depend>smach</build_export_depend>
+  <exec_depend>rgoap</exec_depend>
+  <exec_depend>smach</exec_depend>
+
+</package>
