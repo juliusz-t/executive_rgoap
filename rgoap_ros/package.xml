@@ -13,7 +13,6 @@
 
   <author>Felix Kolbe</author>
   <license>BSD</license>
-  <review status="unreviewed" notes=""/>
   <url>http://ros.org/wiki/rgoap_ros</url>
 
   <buildtool_depend>catkin</buildtool_depend>
