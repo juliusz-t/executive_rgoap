@@ -31,7 +31,7 @@
 # OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 
 
-import roslib; roslib.load_manifest('goap')
+import roslib; roslib.load_manifest('rgoap')
 
 from time import sleep
 
